@@ -1,0 +1,11 @@
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.csprojAssemblyReference.cache
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.csproj.CoreCompileInputs.cache
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.AssemblyInfoInputs.cache
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.AssemblyInfo.cs
+/Users/asiacarter/workspace/c#exceptions/bin/Debug/netcoreapp2.2/c#exceptions.deps.json
+/Users/asiacarter/workspace/c#exceptions/bin/Debug/netcoreapp2.2/c#exceptions.runtimeconfig.json
+/Users/asiacarter/workspace/c#exceptions/bin/Debug/netcoreapp2.2/c#exceptions.runtimeconfig.dev.json
+/Users/asiacarter/workspace/c#exceptions/bin/Debug/netcoreapp2.2/c#exceptions.dll
+/Users/asiacarter/workspace/c#exceptions/bin/Debug/netcoreapp2.2/c#exceptions.pdb
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.dll
+/Users/asiacarter/workspace/c#exceptions/obj/Debug/netcoreapp2.2/c#exceptions.pdb
